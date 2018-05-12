@@ -1,0 +1,38 @@
+_repo: Paul-Verlaine_34327
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Theis, O. F. (Otto Frederick)
+    aliases:
+    - Theis, Otto Frederick
+    - Theis, Otto F. (Otto Frederick)
+    birthdate: &id001 1881
+    gutenberg_agent_id: '36956'
+    url: http://www.gutenberg.org/2009/agents/36956
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zweig, Stefan
+    alias: Branch, Stephen
+    birthdate: *id001
+    deathdate: 1942
+    gutenberg_agent_id: '26291'
+    url: http://www.gutenberg.org/2009/agents/26291
+    wikipedia: http://en.wikipedia.org/wiki/Stefan_Zweig
+description: ''
+gutenberg_issued: '2010-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34327'
+  lccn: '14000070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Verlaine, Paul, 1844-1896 -- Criticism and interpretation'
+- !lcc 'PQ'
+title: Paul Verlaine
+url: http://www.gutenberg.org/ebooks/34327
