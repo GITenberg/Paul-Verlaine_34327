@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Theis, Otto Frederick
     - Theis, Otto F. (Otto Frederick)
-    birthdate: &id001 1881
+    birthdate: 1881
     gutenberg_agent_id: '36956'
     url: http://www.gutenberg.org/2009/agents/36956
 covers:
@@ -16,12 +16,14 @@ creator:
   author:
     agent_name: Zweig, Stefan
     alias: Branch, Stephen
-    birthdate: *id001
+    birthdate: 1881
     deathdate: 1942
     gutenberg_agent_id: '26291'
     url: http://www.gutenberg.org/2009/agents/26291
     wikipedia: http://en.wikipedia.org/wiki/Stefan_Zweig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34327#Paul-Verlaine
 gutenberg_issued: '2010-11-15'
 gutenberg_type: Text
 identifiers:
